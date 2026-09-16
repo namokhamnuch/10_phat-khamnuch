@@ -7,5 +7,5 @@
 
 # เขียนโค้ดต่อจากนี้
 quantity = int(input())
-
+book = int(input())
 
